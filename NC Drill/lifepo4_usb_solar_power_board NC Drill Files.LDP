@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\DayCounter\SolarPowerBase_PCB1_v1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lifepo4_usb_solar_power_board nc drill files-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=lifepo4_usb_solar_power_board nc drill files-slotholes.txt|DrillLayers=gtl,gbl
