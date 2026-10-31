@@ -1,6 +1,11 @@
 # LiFePO4 USB/Solar Power Board
 This is a compact battery and power board for small, solar-energy-autonomous, microcontroller-based projects. The STMicroelectronics SPV1050TTR allows for harvesting almost all energy from a small solar panel or thermal generator throughout the entire day and charging a battery. This is perfect for sleep-heavy microcontroller applications, like periodically reading sensors or updating an e-paper display. A USB-C port easily allows topping up the battery at will.
 
+![Board Image Front](./lifepo4_usb_solar_power_board PCB 3D Print front.png)
+
+![Board Image Back](./lifepo4_usb_solar_power_board PCB 3D Print front.png)
+
+
 ## Specs
 Currently set up for the following specs:
 > Input: Up to 6 V, 60 mA
